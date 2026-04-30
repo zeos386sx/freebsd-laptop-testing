@@ -1,7 +1,7 @@
 === FreeBSD Hardware Status Info ===
 
 Running: FreeBSD 15.0-RELEASE-p2 n230752-16dcabacd5f2 GENERIC
-Hardware: GE60 2OC\2OD\2OE
+Hardware: MSI GE60 2OE
 ------------------------------------
 
 - Graphics
@@ -28,7 +28,7 @@ Hardware: GE60 2OC\2OD\2OE
         device     = 'RTL8723AE PCIe Wireless Network Adapter'
         class      = network
 
-  Category Total Score: 1/2
+  Category Total Score: 0.5/2
 
 --------------------
 
