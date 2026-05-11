@@ -1,7 +1,7 @@
 === FreeBSD Hardware Status Info ===
 
 Running: FreeBSD 15.0-RELEASE-p8 releng/15.0-n281036-53054229dcb3 GENERIC
-Hardware: 20TDS0G500
+Hardware: Lenovo ThinkPad E15 Gen 2 
 ------------------------------------
 
 - Graphics
